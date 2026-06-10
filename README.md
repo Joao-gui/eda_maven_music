@@ -1,4 +1,4 @@
-# Customer Churn Analysis and Data Preparation
+# Customer Churn Analysis | Data Cleaning, EDA & Feature Engineering
 
 ## Overview
 
